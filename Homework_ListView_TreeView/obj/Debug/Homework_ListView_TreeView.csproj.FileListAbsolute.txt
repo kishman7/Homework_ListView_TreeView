@@ -1,0 +1,10 @@
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\bin\Debug\Homework_ListView_TreeView.exe.config
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\bin\Debug\Homework_ListView_TreeView.exe
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\bin\Debug\Homework_ListView_TreeView.pdb
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.Form1.resources
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.exe
+f:\YURKO\SHAG\Project C#\19_05092021_Lab_WindowsForm (ListView, TreeView)_ADO.NET (Dapper, порівняння ORM)\Homework_ListView_TreeView\Homework_ListView_TreeView\obj\Debug\Homework_ListView_TreeView.pdb
